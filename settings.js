@@ -10,24 +10,24 @@ require('dotenv').config()
 
 //contact details - sensitive info moved to .env
 global.SESSION_ID = process.env.SESSION_ID || "" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.ownernomer = process.env.OWNER_NUMBER || "27767494368"
 
-global.ownername = process.env.OWNER_NAME || "HansTech"
+global.ownername = process.env.OWNER_NAME || "𝕬𝖛𝖊.𝕭"
 
 global.ytname = "HANSTZ-TECH"
 
 global.socialm = "GitHub: Mrhanstz"
 
-global.location = "AFRICA, TANZANIA, DODOMA"
+global.location = "AFRICA, JOHANNESBURG"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '27818232269'  //Owner number
 
-global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
-global.botname = 'HANS-XMD' //name of the bot
+global.ownername = process.env.OWNER_NAME || '☚⍢⃝☚' //owner name
+global.botname = '👍(•_•)👍' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'HANS-XMD'
+global.author = '① Photo'
 
 //console view/theme
 global.themeemoji = '⚠️'
@@ -37,7 +37,7 @@ global.wm = "HANS BOT"
 global.link = 'https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31'
 
 //custom prefix
-global.prefa = ['','!','.','#','/']
+global.prefa = '.'
 
 
 //bot settings
